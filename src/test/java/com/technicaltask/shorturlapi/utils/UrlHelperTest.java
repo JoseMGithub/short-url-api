@@ -3,7 +3,7 @@ package com.technicaltask.shorturlapi.utils;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class TestUrlHelper {
+public class UrlHelperTest {
     @Test
     void isURLValid() {
 
