@@ -1,9 +1,10 @@
 package com.technicaltask.shorturlapi.utils;
 
-import org.junit.jupiter.api.Test;
+import com.technicaltask.shorturlapi.utils.RegexHelper;
 
 import java.util.ArrayList;
 
+import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class TestRegexHelper {
